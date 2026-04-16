@@ -40,4 +40,87 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
-;
+/* ===== FORCE CLEAN WHITE STYLE ===== */
+
+html, body {
+  background-color: #ffffff !important;
+  color: #111111 !important;
+}
+
+/* 主内容区域 */
+.page,
+.page__content,
+.archive {
+  background-color: #ffffff !important;
+}
+
+/* 顶部导航栏 */
+.masthead,
+.greedy-nav {
+  background-color: #ffffff !important;
+  border-bottom: 1px solid #eaeaea !important;
+}
+
+/* 导航文字 */
+.greedy-nav a {
+  color: #111 !important;
+  font-weight: 500;
+}
+
+.greedy-nav a:hover {
+  color: #666 !important;
+}
+
+/* Sidebar（左边栏） */
+.sidebar {
+  background: #ffffff !important;
+}
+
+.author__content,
+.author__urls-wrapper,
+.author__urls {
+  background: transparent !important;
+}
+
+/* 头像更干净 */
+.author__avatar img {
+  border-radius: 50%;
+  border: 2px solid #e5e5e5;
+}
+
+/* 标题 */
+h1, h2, h3, h4 {
+  color: #111 !important;
+  letter-spacing: -0.02em;
+}
+
+/* 正文 */
+p {
+  color: #222 !important;
+}
+
+/* 链接（高级一点的蓝） */
+a {
+  color: #2f5fa7 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+.page__footer {
+  background: #ffffff !important;
+  border-top: 1px solid #eaeaea;
+  color: #666;
+}
+
+/* 去掉奇怪阴影 */
+.masthead,
+.sidebar,
+.page__footer,
+.notice {
+  box-shadow: none !important;
+}
+   ;
