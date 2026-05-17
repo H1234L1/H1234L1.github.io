@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I’m an incoming undergraduate student at the University of Washington, starting in Fall 2026, and I plan to major in Computer Science. I graduated from Shanghai Pinghe School, where I studied the IBDP program and spent two years involved in robotics. I’m particularly passionate about Robotics and Computer Vision.
+I’m an incoming undergraduate student at the University of Washington, starting in Fall 2026, and I plan to major in Computer Science. I graduated from Shanghai Pinghe School, where I studied the IBDP program and spent two years involved in robotics. <br>
+I’m particularly passionate about Robotics and Computer Vision. 
 
 Honors and Awards
 ======
 Robotics:
-FRC (FIRST Robotics Competition) Champion, China, 2023.
-FRC (FIRST Robotics Competition) Champion, Istanbul, 2024.
-Math: 
-2024 AMC (American Math Competition) 10A top 2.5%
-2025 AMC (American Math Competition) 12B top 2.5%
-2025 Euclid Contest top 1.7% (465 out of 27092)
+·FRC 2023(FIRST Robotics Competition): Champion. <br>
+·FRC 2024(FIRST Robotics Competition): Champion. <br>
+·Math: 
+·2024 AMC (American Math Competition): top 2.5%. <br>
+·2025 AMC (American Math Competition): top 2.5%. <br>
+·2025 Euclid Contest: top 1.7% (465 out of 27092).
 
 Projects
 ======
