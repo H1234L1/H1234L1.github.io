@@ -26,6 +26,4 @@ I’m particularly passionate about Robotics and Computer Vision.
 
 ## Projects
 
-Projects
-======
 
