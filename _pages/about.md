@@ -12,7 +12,7 @@ I’m an incoming undergraduate student at the University of Washington, startin
 I’m particularly passionate about Robotics and Computer Vision.
 
 ## Experience
-- As a team leader in First Robotics Competition (FRC), I worked across both the software and hardware sides of robotics development, contributing to the full engineering workflow from mechanical design to autonomous control and on-field operation.
+- As a team leader in First Robotics Competition (FRC), I worked across both the software and hardware sides of robotics development.
 
 - On the software side, I implemented and tuned PID control systems, developed motion logic for autonomous behavior, and iteratively debugged control performance under real-world constraints. I also worked on robot path adjustment and system logic design to improve stability and responsiveness during operation.
 
